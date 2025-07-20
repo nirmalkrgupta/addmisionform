@@ -45,14 +45,10 @@ body{
 }
 @media (max-width: 500px){
     body{
-        width: 100%;
+        width: 100;
         background-color: rgb(127, 236, 255);
     }
     .gender{
-        display: inline-block;
-        width: 45%;
-        margin: 20px;
-        margin-left: 25px;
-        width: 100%;
+        display: flex;
     }
 }
