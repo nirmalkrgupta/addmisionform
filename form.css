@@ -45,7 +45,7 @@ body{
 }
 @media (max-width: 500px){
     body{
-        background-color: rgb(126, 197, 230);
+        background-color: rgb(132, 243, 243);
     }
     .gender{
         display: flex;
